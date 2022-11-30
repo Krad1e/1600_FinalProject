@@ -1,0 +1,6 @@
+# **Converting MBR to GPT for Windows 10 to Windows 11 upgrade using MBR2GPT**
+## Author: Alex Brousse, of the University of Missouri. </br>This is a tutorial for converting a hard drive with an MBR format to the GPT format. **This is for windows 10 only.** </br>This tutorial is designed for moderate to advanced users. The ability to access ones BIOS and change settings is required.
+> ## **Disclaimer** - I am **NOT** responsible for any loss of data during this process. This tutorial is designed so you don't lose data, but **ALWAYS** back up ANY important data & information before EVER converting a hard drive from one partition to another. Complete loss of data is always possible, but unlikely.
+### The GPT format is a newer protocol which allows for more storage, flexibility, UEFI booting, and windows 11 compatibility. MBR (Master Boot Record) is becoming a legacy format, being almost 40 years old. If you are currently running on a MBR hard drive and want to use Windows 11 in the future, you will need to take these steps in order to upgrade without losing data.
+
+# </br>[Link to Tutorial](/ConvertMbrToGpt.md)
