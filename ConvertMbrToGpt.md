@@ -4,7 +4,7 @@
 * Open the start menu, and type 'run'
 * In 'run', type 'diskmgmt.msc' and press 'OK'
 * In Disk Management, observe your Disks listed. Look for the one that has your operating system installed on it. For example, mine is _Disk 0_
-* Right click on the far left box that displays your Disk number, so in my case, I right click on 'Disk 0' 
+* Right click on the far left box that displays your Disk number
 ![Area to click is highlighted in red](https://i.imgur.com/F14C8bW.png)
 * Click on 'Properties'
 * Once you have opened 'Properties', move to the 'Volumes' tab
